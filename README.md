@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,39 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# 🎮 **Rock, Paper, Scissors Game API**
+
+This is the backend API for the Rock, Paper, Scissors game. It manages game creation, gameplay, and result summaries. Built with **Laravel**, it's designed to be scalable and flexible.
+
+---
+
+## 📋 **Features**
+
+- ✅ **Game Management**: Create and manage games with multiple rounds.
+- 🔄 **Dynamic Moves**: Supports dynamic moves fetched from the database.
+- 🎭 **Player Management**: Handles both manual and automatic players.
+- 📊 **Game Results**: Stores and retrieves detailed round results and game summaries.
+- 🌐 **RESTful API**: Fully compatible with modern frontend frameworks.
+
+---
+
+## ⚙️ **Requirements**
+
+- **PHP**: >= 8.1
+- **Composer**
+- **Docker** (optional, for containerized setup)
+- **Laravel**: 10.x
+
+---
+
+## 🚀 **Installation**
+
+### 1️⃣ **Clone the Repository**
+
+```bash
+git clone https://github.com/your-repo/rock-paper-scissors-backend.git
+cd rock-paper-scissors-backend
+
+
+>>>>>>> 1bd90c3154e2fe7b1f455f84b43c0dad228bcc31
